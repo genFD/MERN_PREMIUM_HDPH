@@ -1,6 +1,5 @@
 const products = [
   {
-    _id: 1,
     pName: 'Bang & Olufsen Beoplay E8',
     image: '/images/imgcards/bang.png',
     imageDetails: '/images/imgdetails/bang.jpeg',
@@ -14,7 +13,6 @@ const products = [
     numReviews: 4,
   },
   {
-    _id: 2,
     pName: 'Apple AirPods Max',
     image: '/images/imgcards/AirPodsMax.webp',
     imageDetails: '/images/imgdetails/AirPodsMax.webp',
@@ -29,7 +27,6 @@ const products = [
   },
 
   {
-    _id: 3,
     pName: 'Sony WH-1000XM4',
     image: '/images/imgcards/sony.webp',
     imageDetails: '/images/imgdetails/sony.png',
@@ -44,7 +41,6 @@ const products = [
   },
 
   {
-    _id: 4,
     pName: 'Bang & Olufsen Beoplay H8i',
     image: '/images/imgcards/bange8.png',
     imageDetails: '/images/imgdetails/bange8.jpeg',
