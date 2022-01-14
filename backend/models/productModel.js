@@ -18,11 +18,15 @@ const productSchema = mongoose.Schema(
       required: true,
       ref: 'User',
     },
-    name: {
+    pName: {
       type: String,
-      // required: true,
+      required: true,
     },
     image: {
+      type: String,
+      required: true,
+    },
+    imageDetails: {
       type: String,
       required: true,
     },
